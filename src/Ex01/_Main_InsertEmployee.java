@@ -22,7 +22,7 @@ public class _Main_InsertEmployee {
 		try(//java 7.0 提共自動關閉的資源
 		BufferedReader bf = new BufferedReader(
 							   new InputStreamReader(
-								  new FileInputStream("EmployeeInitializationData"+code+".txt"),code));
+								  new FileInputStream("Ex01_EmployeeInitializationData"+code+".txt"),code));
 			){
 		 String Read_line="";
 		 EmployeeDAO ie= new EmployeeDAO();
