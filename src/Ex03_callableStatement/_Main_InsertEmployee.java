@@ -30,8 +30,8 @@ public class _Main_InsertEmployee {
 				String[] sa = Read_line.split("\\|");
 				
 				try {
-					Blob picture = new SerialBlob(EmployeeDAO.read_BinaryFile_To_ByteArray("Ex03_data\\Ex03_statement_img\\" + sa[5].trim()));
-					Clob comment = new SerialClob(EmployeeDAO.read_TextFile_To_CharArray("Ex03_data\\Ex03_statement_text\\" + sa[6].trim(),"BIG5"));		
+					Blob picture = new SerialBlob(EmployeeDAO.read_BinaryFile_To_ByteArray("statement_img\\" + sa[5].trim()));
+					Clob comment = new SerialClob(EmployeeDAO.read_TextFile_To_CharArray("statement_text\\" + sa[6].trim(),"BIG5"));		
 					EmployeeBean emp = new EmployeeBean(sa[0].trim() ,
 								 						sa[1].trim() ,
 								 		   Date.valueOf(sa[2].trim()),

@@ -24,8 +24,8 @@ public class _Main_UpdataEmployee {
 			while ((Read_line = bf.readLine()) != null) {
 				String[] sa = Read_line.split("\\|");
 				try {
-					Blob picture = new SerialBlob(EmployeeDAO.read_BinaryFile_To_ByteArray("Ex02_data\\Ex02_statement_img\\" + sa[6].trim()));
-					Clob comment = new SerialClob(EmployeeDAO.read_TextFile_To_CharArray("Ex02_data\\Ex02_statement_text\\" + sa[7].trim(), "BIG5"));
+					Blob picture = new SerialBlob(EmployeeDAO.read_BinaryFile_To_ByteArray("statement_img\\" + sa[6].trim()));
+					Clob comment = new SerialClob(EmployeeDAO.read_TextFile_To_CharArray("statement_text\\" + sa[7].trim(), "BIG5"));
 					EmployeeBean emp = new EmployeeBean(
 									   Integer.parseInt(sa[0].trim()),
 														sa[1].trim(),

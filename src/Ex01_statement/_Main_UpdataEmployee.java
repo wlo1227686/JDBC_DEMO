@@ -24,7 +24,7 @@ public class _Main_UpdataEmployee {
 		try(//java 7.0 提共自動關閉的資源
 		BufferedReader bf = new BufferedReader(
 							   new InputStreamReader(
-								  new FileInputStream("Ex01_data\\Ex01_statement_UpdateData.txt"),"BIG5"));
+								  new FileInputStream("statement_UpdateData.txt"),"BIG5"));
 			){
 		 String Read_line="";
 		 EmployeeDAO ie= new EmployeeDAO();
