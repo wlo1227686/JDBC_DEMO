@@ -1,2 +1,0 @@
-1|連國中(UD)   | 新北市(UD)UTF8| 1972-02-29| 41000| 61.1 |    landscape01.jpg    | comment5.txt
-7|李俊傑(UD)| 台南市(UD)UTF8| 1976-02-29| 47000| 67.0 |       landscape02.jpg | comment6.txt

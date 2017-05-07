@@ -1,4 +1,0 @@
-連國華| 新北市BIG5| 1975-12-25| 40000| 65.1| Trump.jpg|comment1.txt
-李俊傑| 台南市BIG5| 1979-02-05| 38000| 60.0 | Jack.jpg|comment2.txt
-張均亞| 新竹市BIG5| 1982-7-9| 42000| 48.0   | Obama.jpg |comment3.txt
-林瑋珍| 南投縣BIG5| 1979-12-25| 55000| 55.5 | Jane.jpg  |comment4.txt

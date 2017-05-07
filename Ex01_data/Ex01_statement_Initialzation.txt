@@ -1,0 +1,9 @@
+ 蒙其·D·魯夫 | 東方藍的佛夏村 | 1970-05-05 |草帽魯夫 | 500000000 | 01_monkey_D_luffy.png | info_01_luffy.txt
+ 羅羅亞·索隆 | 西摩志基村 |  1970-11-11 |海賊獵人索隆 | 320000000 | 02_rorona_zoro.png | info_02_zoro.txt
+ 娜美 | 東海可可亞西村 |  1970-07-03 |小偷貓娜美 | 66000000 | 03_nami.png | info_03_nami.txt
+ 騙人布 | 東海－西羅布村 |  1970-04-01 |狙擊王 | 200000000 | 04_god_usopp.png | info_04_usopp.txt
+ 賓什莫克·香吉士 | 北海 |  1970-03-02 |黑腳香吉士 | 177000000 | 05_sanji.png | info_05_sanji.txt
+ 妮可·羅賓 | 西海考古學之島(歐哈拉) | 1970-02-06 | 超人系(花花果實) | 130000000 | 06_nico_robin.png | info_06_robin.txt
+ 多尼多尼·喬巴 | 磁鼓王國 |  1970-12-24 |超愛棉花糖喬巴 | 100 | 07_chopper.png | info_07_chopper.txt
+ 佛朗基 | 南海 |  1970-03-09 |鐵人佛朗基 | 94000000 | 08_franky.png | info_08_franky.txt
+ 布魯克 | 西海 |  1970-04-03 | 靈魂之王 | 83000000 | 09_brook.png | info_09_brook.txt
